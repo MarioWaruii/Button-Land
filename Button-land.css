@@ -1,0 +1,266 @@
+body {
+    background: #2F2F32;
+   
+}
+
+#btn1 {
+    width: 98px;
+    height: 111px;
+    border: 4px solid white;
+    border-radius: 12px;
+    padding: 12px 20px;
+    position: relative;
+    left: 55px;
+    top: 43px;
+    background: linear-gradient(268.69deg, #2B1870 16.52%, #BD3131 49.01%, #2B1870 80.28%);
+}
+
+#btn2 {
+    width: 177px;
+    height: 44px;
+    border-radius: 12px;
+    /* padding: 40px 24px; */
+    position: relative;
+    top: 137px;
+    left: 217px;
+    background: #E5A8D6;
+    border: 4px solid #fff;
+
+}
+
+#btn3 {
+    width: 137px;
+    height: 72px;
+    border-radius: 12px;
+    padding: 24px 20px;
+    position: relative;
+    top: 56px;
+    left: 530px;
+    background-color: #f2d76d;
+}
+
+#btn4 {
+    width: 137px;
+    height: 72px;
+    border-radius: 12px;
+    border: 4px solid #d2d2d2;
+    background-color: #7d63d5;
+    position: relative;
+    left: 780px;
+    top: 72px;
+}
+
+#btn5 {
+    width: 99px;
+    height: 41px;
+    padding: 12px 20px;
+    border-radius: 12px;
+    border: 2px solid #fffed7;
+    background: linear-gradient(261.98deg, #36EEBA 16.11%, #2A7E44 80.87%);
+    position: relative;
+    top: 258px;
+    left: 35px;
+}
+
+#btn6 {
+    width: 137px;
+    height: 72px;
+    border-radius: 12px;
+    padding: 24px 20px;
+    background-color: #f25f5f;
+    position: relative;
+    top: 309px;
+    left: 200px;
+}
+
+#btn7 {
+    width: 82px;
+    height: 82px;
+    border-radius: 50%;
+    border: 2px solid #fffed7;
+    background: linear-gradient(261.98deg, #EE3695 16.11%, #502A7E 80.87%);
+    color: #fff;
+    position: relative;
+    top: 258px;
+    left: 433px;
+}
+
+#btn8 {
+    background: #51D85A;
+    width: 177px;
+    height: 104px;
+    border: 4px solid #ffffff;
+    border-radius: 12px;
+    padding: 40px 24px;
+    position: relative;
+    top: 218px;
+    left: 575px;
+}
+
+#btn9 {
+    width: 100px;
+    height: 41px;
+    border-radius: 12px;
+    border: 2px solid #fffed7;
+    padding: 12px 20px;
+    background: linear-gradient(261.98deg, #EE3695 16.11%, #BD3166 44.71%, #701818 80.87%);
+    position: relative;
+    top: 309px;
+    left: 730px;
+}
+
+.center {
+    text-align: center;
+    margin-top: 25%;
+}
+
+.center h1 {
+    font: 500;
+    font-family: "Inter", sans-serif;
+    font-size: 128px;
+    letter-spacing: -4%;
+    line-height: 100%;
+    color: #eeeeee;
+}
+
+.center h4 {
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 20%;
+    font-weight: 400;
+    color: #eeeeee;
+    margin-top: -70px;
+}
+
+#btn10 {
+    width: 137px;
+    height: 72px;
+    border-radius: 12px;
+    background: #B25FF2;
+    position: relative;
+    top: 136px;
+    left: 31px;
+    padding: 24px 20px;
+}
+
+#btn11 {
+    width: 78px;
+    height: 78px;
+    position: relative;
+    top: 280px;
+    left: 206px;
+    border-radius: 50%;
+    padding: 24px 20px;
+    color: #fff;
+    background: #F25FDE;
+    border: 4px solid #fff;
+    font-size: 13px;
+}
+
+#btn12 {
+    width: 165.29px;
+    height: 69.98px;
+    position: relative;
+    top: 230px;
+    left: 444px;
+    border-radius: 3.41px;
+    padding: 20.49px 34.15px;
+    color: #fff;
+    background: linear-gradient(261.98deg, #8236EE 16.11%, #2A387E 80.87%);
+    border: 3.41px solid #fffed7;
+}
+
+#btn13 {
+    width: 137px;
+    height: 72px;
+    position: relative;
+    top: 21px;
+    left: 530px;
+    border-radius: 12px;
+    padding: 24px 20px;
+    background: #5FDCF2;
+}
+
+#btn14 {
+    width: 137px;
+    height: 72px;
+    position: relative;
+    top: 280px;
+    left: 680px;
+    border-radius: 12px;
+    padding: 24px 20px;
+    background-color: #d45ea9;
+}
+
+#btn15 {
+    width: 99px;
+    height: 41px;
+    position: relative;
+    top: 490px;
+    left: 33px;
+    border-radius: 12px;
+    border: 2px solid #d7daff;
+    padding: 12px 20px;
+    background: linear-gradient(262.61deg, #EEE836 17.23%, #AE7524 67.65%);
+}
+
+#btn16 {
+    width: 137px;
+    height: 72px;
+    position: relative;
+    top: 324px;
+    left: 120px;
+    border-radius: 12px;
+    padding: 24px 20px;
+    background-color: #f27c5f;
+}
+
+#btn17 {
+    width: 177px;
+    height: 104px;
+    position: relative;
+    top: 414px;
+    left: 230px;
+    border-radius: 12px;
+    border: 8px solid #fff;
+    color: #fff;
+    background-color: #51d8c8;
+}
+
+#btn18 {
+    width: 137px;
+    height: 72px;
+    position: relative;
+    top: 430px;
+    left: 340px;
+    
+    border-radius: 12px;
+    padding: 24px 20px;
+    background-color: #5f62f2;
+}
+
+#btn19 {
+    width: 177px;
+    height: 104px;
+    position: relative;
+    top: 429px;
+    left: 430px;
+    border-radius: 12px;
+    padding: 40px 24px;
+    border: 4px solid #ffffff;
+    background: #61ad65;
+
+}
+
+#btn20 {
+    width: 104px;
+    height: 104px;
+    top: 466px;
+    left: 500px;
+    position: relative;
+    border-radius: 50%;
+    border: 4px solid #FFF;
+    padding: 40px 24px;
+    background: #d85151;
+}
