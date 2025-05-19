@@ -2,7 +2,7 @@ body {
     background: #2F2F32;
 }
 
-#btn1 {
+#btn-1 {
     width: 98px;
     height: 111px;
     border: 4px solid white;
@@ -14,7 +14,7 @@ body {
     background: linear-gradient(268.69deg, #2B1870 16.52%, #BD3131 49.01%, #2B1870 80.28%);
 }
 
-#btn2 {
+#btn-2 {
     width: 177px;
     height: 44px;
     border-radius: 12px;
@@ -27,7 +27,7 @@ body {
 
 }
 
-#btn3 {
+#btn-3 {
     width: 137px;
     height: 72px;
     border-radius: 12px;
@@ -38,7 +38,7 @@ body {
     background-color: #f2d76d;
 }
 
-#btn4 {
+#btn-4 {
     width: 137px;
     height: 72px;
     border-radius: 12px;
@@ -49,7 +49,7 @@ body {
     top: 72px;
 }
 
-#btn5 {
+#btn-5 {
     width: 99px;
     height: 41px;
     padding: 12px 20px;
@@ -61,7 +61,7 @@ body {
     left: 35px;
 }
 
-#btn6 {
+#btn-6 {
     width: 137px;
     height: 72px;
     border-radius: 12px;
@@ -72,7 +72,7 @@ body {
     left: 200px;
 }
 
-#btn7 {
+#btn-7 {
     width: 82px;
     height: 82px;
     border-radius: 50%;
@@ -84,7 +84,7 @@ body {
     left: 433px;
 }
 
-#btn8 {
+#btn-8 {
     background: #51D85A;
     width: 177px;
     height: 104px;
@@ -96,7 +96,7 @@ body {
     left: 575px;
 }
 
-#btn9 {
+#btn-9 {
     width: 100px;
     height: 41px;
     border-radius: 12px;
@@ -132,7 +132,7 @@ body {
     margin-top: -70px;
 }
 
-#btn10 {
+#btn-10 {
     width: 137px;
     height: 72px;
     border-radius: 12px;
@@ -143,7 +143,7 @@ body {
     padding: 24px 20px;
 }
 
-#btn11 {
+#btn-11 {
     width: 78px;
     height: 78px;
     position: relative;
@@ -157,7 +157,7 @@ body {
     font-size: 13px;
 }
 
-#btn12 {
+#btn-12 {
     width: 165.29px;
     height: 69.98px;
     position: relative;
@@ -170,7 +170,7 @@ body {
     border: 3.41px solid #fffed7;
 }
 
-#btn13 {
+#btn-13 {
     width: 137px;
     height: 72px;
     position: relative;
@@ -181,7 +181,7 @@ body {
     background: #5FDCF2;
 }
 
-#btn14 {
+#btn-14 {
     width: 137px;
     height: 72px;
     position: relative;
@@ -192,7 +192,7 @@ body {
     background-color: #d45ea9;
 }
 
-#btn15 {
+#btn-15 {
     width: 99px;
     height: 41px;
     position: relative;
@@ -204,7 +204,7 @@ body {
     background: linear-gradient(262.61deg, #EEE836 17.23%, #AE7524 67.65%);
 }
 
-#btn16 {
+#btn-16 {
     width: 137px;
     height: 72px;
     position: relative;
@@ -215,7 +215,7 @@ body {
     background-color: #f27c5f;
 }
 
-#btn17 {
+#btn-17 {
     width: 177px;
     height: 104px;
     position: relative;
@@ -227,7 +227,7 @@ body {
     background-color: #51d8c8;
 }
 
-#btn18 {
+#btn-18 {
     width: 137px;
     height: 72px;
     position: relative;
@@ -239,7 +239,7 @@ body {
     background-color: #5f62f2;
 }
 
-#btn19 {
+#btn-19 {
     width: 177px;
     height: 104px;
     position: relative;
@@ -252,7 +252,7 @@ body {
 
 }
 
-#btn20 {
+#btn-20 {
     width: 104px;
     height: 104px;
     top: 466px;
