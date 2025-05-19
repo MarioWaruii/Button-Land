@@ -264,3 +264,6 @@ body {
     padding: 40px 24px;
     background: #d85151;
 }
+button:hover{
+    opacity: 30%;
+}
