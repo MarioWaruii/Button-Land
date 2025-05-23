@@ -1,5 +1,9 @@
 body {
-    background: #2F2F32;
+    background: url('../btn-lnd.svg');
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    padding: 10px;
 }
 
 #btn-1 {
@@ -9,8 +13,8 @@ body {
     border-radius: 12px;
     padding: 12px 20px;
     position: relative;
-    left: 55px;
-    top: 43px;
+    left: 5%;
+    top: 8%;
     background: linear-gradient(268.69deg, #2B1870 16.52%, #BD3131 49.01%, #2B1870 80.28%);
 }
 
@@ -20,8 +24,8 @@ body {
     border-radius: 12px;
     /* padding: 40px 24px; */
     position: relative;
-    top: 137px;
-    left: 217px;
+    top: 50px;
+    left: 18%;
     background: #E5A8D6;
     border: 4px solid #fff;
 
@@ -33,8 +37,8 @@ body {
     border-radius: 12px;
     padding: 24px 20px;
     position: relative;
-    top: 56px;
-    left: 530px;
+    top: 10%;
+    left: 40%;
     background-color: #f2d76d;
 }
 
@@ -45,7 +49,7 @@ body {
     border: 4px solid #d2d2d2;
     background-color: #7d63d5;
     position: relative;
-    left: 780px;
+    left: 55%;
     top: 72px;
 }
 
@@ -57,8 +61,8 @@ body {
     border: 2px solid #fffed7;
     background: linear-gradient(261.98deg, #36EEBA 16.11%, #2A7E44 80.87%);
     position: relative;
-    top: 258px;
-    left: 35px;
+    top: 120px;
+    left: 1%;
 }
 
 #btn-6 {
@@ -68,8 +72,8 @@ body {
     padding: 24px 20px;
     background-color: #f25f5f;
     position: relative;
-    top: 309px;
-    left: 200px;
+    top: 250px;
+    left: 15%;
 }
 
 #btn-7 {
@@ -80,8 +84,8 @@ body {
     background: linear-gradient(261.98deg, #EE3695 16.11%, #502A7E 80.87%);
     color: #fff;
     position: relative;
-    top: 258px;
-    left: 433px;
+    top: 320px;
+    left: 30%;
 }
 
 #btn-8 {
@@ -93,7 +97,7 @@ body {
     padding: 40px 24px;
     position: relative;
     top: 218px;
-    left: 575px;
+    left: 45%;
 }
 
 #btn-9 {
@@ -104,32 +108,8 @@ body {
     padding: 12px 20px;
     background: linear-gradient(261.98deg, #EE3695 16.11%, #BD3166 44.71%, #701818 80.87%);
     position: relative;
-    top: 309px;
-    left: 730px;
-}
-
-.center {
-    text-align: center;
-    margin-top: 25%;
-}
-
-.center h1 {
-    font: 500;
-    font-family: "Inter", sans-serif;
-    font-size: 128px;
-    letter-spacing: -4%;
-    line-height: 100%;
-    color: #eeeeee;
-}
-
-.center h4 {
-    font-family: "Inter", sans-serif;
-    font-size: 20px;
-    line-height: 100%;
-    letter-spacing: 20%;
-    font-weight: 400;
-    color: #eeeeee;
-    margin-top: -70px;
+    top: 120px;
+    left: 55%;
 }
 
 #btn-10 {
@@ -138,8 +118,8 @@ body {
     border-radius: 12px;
     background: #B25FF2;
     position: relative;
-    top: 136px;
-    left: 31px;
+    top: 280px;
+    left: 4%;
     padding: 24px 20px;
 }
 
@@ -147,8 +127,8 @@ body {
     width: 78px;
     height: 78px;
     position: relative;
-    top: 280px;
-    left: 206px;
+    top: 400px;
+    left: 20%;
     border-radius: 50%;
     padding: 24px 20px;
     color: #fff;
@@ -161,8 +141,8 @@ body {
     width: 165.29px;
     height: 69.98px;
     position: relative;
-    top: 230px;
-    left: 444px;
+    top: 360px;
+    left: 35%;
     border-radius: 3.41px;
     padding: 20.49px 34.15px;
     color: #fff;
@@ -174,8 +154,8 @@ body {
     width: 137px;
     height: 72px;
     position: relative;
-    top: 21px;
-    left: 530px;
+    top: 290px;
+    left: 45%;
     border-radius: 12px;
     padding: 24px 20px;
     background: #5FDCF2;
@@ -185,8 +165,8 @@ body {
     width: 137px;
     height: 72px;
     position: relative;
-    top: 280px;
-    left: 680px;
+    top: 370px;
+    left: 50%;
     border-radius: 12px;
     padding: 24px 20px;
     background-color: #d45ea9;
@@ -197,7 +177,7 @@ body {
     height: 41px;
     position: relative;
     top: 490px;
-    left: 33px;
+    left: 2%;
     border-radius: 12px;
     border: 2px solid #d7daff;
     padding: 12px 20px;
@@ -208,8 +188,8 @@ body {
     width: 137px;
     height: 72px;
     position: relative;
-    top: 324px;
-    left: 120px;
+    top: 424px;
+    left: 8%;
     border-radius: 12px;
     padding: 24px 20px;
     background-color: #f27c5f;
@@ -219,8 +199,8 @@ body {
     width: 177px;
     height: 104px;
     position: relative;
-    top: 414px;
-    left: 230px;
+    top: 504px;
+    left: 15%;
     border-radius: 12px;
     border: 8px solid #fff;
     color: #fff;
@@ -232,7 +212,7 @@ body {
     height: 72px;
     position: relative;
     top: 430px;
-    left: 340px;
+    left: 23%;
     
     border-radius: 12px;
     padding: 24px 20px;
@@ -243,8 +223,8 @@ body {
     width: 177px;
     height: 104px;
     position: relative;
-    top: 429px;
-    left: 430px;
+    top: 480px;
+    left: 30%;
     border-radius: 12px;
     padding: 40px 24px;
     border: 4px solid #ffffff;
@@ -255,8 +235,8 @@ body {
 #btn-20 {
     width: 104px;
     height: 104px;
-    top: 466px;
-    left: 500px;
+    top: 520px;
+    left: 36.5%;
     position: relative;
     border-radius: 50%;
     border: 4px solid #FFF;
@@ -264,5 +244,5 @@ body {
     background: #d85151;
 }
 button:hover{
-    opacity: 30%;
+    opacity: 80%;
 }
