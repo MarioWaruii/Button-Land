@@ -4,6 +4,7 @@ body {
     background-repeat: repeat;
     background-size: cover;
     padding: 10px;
+    background: #2F2F32;
 }
 
 #btn-1 {
@@ -22,7 +23,6 @@ body {
     width: 177px;
     height: 44px;
     border-radius: 12px;
-    /* padding: 40px 24px; */
     position: relative;
     top: 50px;
     left: 18%;
@@ -110,6 +110,31 @@ body {
     position: relative;
     top: 120px;
     left: 55%;
+}
+
+
+.center {
+    text-align: center;
+    margin-top: 25%;
+}
+
+.center h1 {
+    font: 500;
+    font-family: "Inter", sans-serif;
+    font-size: 128px;
+    letter-spacing: -4%;
+    line-height: 100%;
+    color: #eeeeee;
+}
+
+.center h4 {
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 20%;
+    font-weight: 400;
+    color: #eeeeee;
+    margin-top: -70px;
 }
 
 #btn-10 {
